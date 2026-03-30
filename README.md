@@ -18,10 +18,12 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,7 +39,7 @@
 
 ## 🤝 Contactez-moi !
 <div align="center">
-  <a href="https://linkedin.com/in/wall966">
+  <a href="www.linkedin.com/in/nogueira-wallace96">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:votre-email@gmail.com">
@@ -48,15 +50,8 @@
   </a>
 </div>
 
-## 🏆 Trophées GitHub
-<div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wall966&theme=radical&no-frame=true&no-bg=true)
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wall966&style=flat-square&color=blue" alt="Nombre de visiteurs" />
   
-  **Fait avec ❤️ par Wallas**
+  **Fait par WallaceProjects**
 </div>
