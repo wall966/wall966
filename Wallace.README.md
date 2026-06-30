@@ -66,6 +66,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=wall966&style=flat-square&color=blue" alt="Profile views"/>
 
-**Made with ❤️ by Wallace Nogueira**
+**Wallace Nogueira**
 
 </div>
