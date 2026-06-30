@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Bonjour, je suis Wallace NOGUEIRA !
-### Étudiant en développement web et mobile | Passionné de technologie et d'innovation
+### Développeur Web Junior | Passionné de technologie et d'innovation
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wall966&theme=radical&hide_border=true)](https://github.com/wall966)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wall966&layout=compact&theme=radical&hide_border=true)](https://github.com/wall966)
@@ -9,8 +9,8 @@
 </div>
 
 ## 🚀 À propos de moi
-- 🔭 Actuellement travaillant en **JavaScript, Python et Node.js**
-- 🌱 Apprenant **React, TypeScript**
+- 🔭 Actuellement travaillant en **JavaScript, Node.js, React, MongoDB et Supabase**
+- 🌱 Apprenant **PHP, MySQL**
 - ⚡ Fun fact: **Le café est mon carburant principal ! ☕**
 
 ## 🛠️ Stack technique
@@ -22,7 +22,7 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Outils
