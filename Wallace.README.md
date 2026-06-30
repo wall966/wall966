@@ -4,7 +4,6 @@
 ### Junior Full Stack Web Developer | Passionate about Technology & Innovation
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wall966&theme=radical&hide_border=true&cache_seconds=3600)](https://github.com/wall966)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wall966&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)](https://github.com/wall966)
 
 </div>
 
