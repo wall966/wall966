@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Wallace Nogueira!
-### Junior Full Stack Web Developer | Passionate about Technology & Innovation
+### Full Stack Web Developer | Passionate about Technology & Innovation
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wall966&theme=radical&hide_border=true&cache_seconds=3600)](https://github.com/wall966)
 
