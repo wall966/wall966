@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Wallace Nogueira!
-### Full Stack Web Developer | Passionate about Technology & Innovation
+### Junior Full Stack Web Developer | Passionate about Technology & Innovation
 
 
 
