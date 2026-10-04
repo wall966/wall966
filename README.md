@@ -3,18 +3,24 @@
 # 👋 Hi, I'm Wallace Nogueira!
 ### Junior Full Stack Web Developer | Passionate about Technology & Innovation
 
-
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working with **JavaScript, Node.js, React, MongoDB, and Supabase**
-- 🌱 Currently learning **PHP and MySQL**
-- 💡 Always looking to improve my skills and build real-world projects.
+- 🔭 Working with **JavaScript, Node.js, React, MongoDB, and Supabase**
+- 🧩 Web developer intern (2026): managed and optimised a **WordPress** website — custom PHP snippets, performance, security and hosting (OVH)
+- 🌱 Growing my skills in **PHP and MySQL**
+- 💡 Always looking to improve my skills and build real-world projects
 - ☕ Fun fact: Coffee is my favorite fuel!
+
+---
+
+## 📌 Featured Project
+
+**[WordPress – Community Centre Website](https://github.com/wall966/wordpress-community-centre)**
+Custom PHP snippets, performance optimisation and security for a community centre's WordPress website (internship project).
 
 ---
 
@@ -28,16 +34,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & CMS
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ☁️ Cloud & BaaS
 
@@ -48,6 +54,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
